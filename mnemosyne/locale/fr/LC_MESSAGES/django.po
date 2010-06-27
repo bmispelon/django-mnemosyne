@@ -1,0 +1,159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-26 21:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#: models.py:10 models.py:33 templates/mnemosyne/memory_form.html:20
+msgid "I remember"
+msgstr "Je me souviens"
+
+#: models.py:11
+msgid "HTML"
+msgstr "HTML"
+
+#: models.py:12
+msgid "added on"
+msgstr "ajouté le"
+
+#: models.py:13
+msgid "edited on"
+msgstr "modifié le"
+
+#: models.py:14
+msgid "language"
+msgstr "langue"
+
+#: models.py:15
+msgid "author"
+msgstr "auteur"
+
+#: models.py:16
+msgid "tags"
+msgstr "tags"
+
+#: models.py:21 views.py:66
+msgid "memory"
+msgstr "souvenir"
+
+#: models.py:22
+msgid "memories"
+msgstr "souvenirs"
+
+#: models.py:27 templates/mnemosyne/memory_detail.html:5
+#: templates/mnemosyne/memory_detail.html:8
+#, python-format
+msgid "Memory #%(id)s"
+msgstr "Souvenir n°%(id)s"
+
+#: views.py:53
+msgid "Sorry, there are no memories in your language."
+msgstr "Désolé, il n'y a aucun souvenir disponible dans votre langue.'"
+
+#: views.py:66
+#, python-format
+msgid "The %(verbose_name)s was created successfully."
+msgstr "Le %(verbose_name)s a été créé avec succès."
+
+#: templates/mnemosyne/memory_confirm_delete.html:6
+#, python-format
+msgid ""
+"You are about to delete the memory #%(id)s, are you sure you want to "
+"proceed ?"
+msgstr ""
+"Vous êtes sur le point de supprimer le souvenir n°%(id)s. Êtes-vous sûr(e) "
+"de vouloir continuer?"
+
+#: templates/mnemosyne/memory_confirm_delete.html:8
+#: templates/mnemosyne/memory_list.html:47
+msgid "Delete"
+msgstr "Supprimer"
+
+#: templates/mnemosyne/memory_confirm_delete.html:10
+#: templates/mnemosyne/memory_form.html:33
+msgid "Cancel"
+msgstr "Annuler"
+
+#: templates/mnemosyne/memory_detail.html:18
+#: templates/mnemosyne/memory_list.html:25
+#, fuzzy
+msgid "Author"
+msgstr "Auteur"
+
+#: templates/mnemosyne/memory_detail.html:21
+#: templates/mnemosyne/memory_list.html:28
+#, fuzzy
+msgid "Language"
+msgstr "Langue"
+
+#: templates/mnemosyne/memory_detail.html:25
+#, fuzzy
+msgid "Posted on"
+msgstr "Ajouté le"
+
+#: templates/mnemosyne/memory_form.html:6
+#: templates/mnemosyne/memory_form.html:13
+#, fuzzy, python-format
+msgid "Edit memory #%(id)s"
+msgstr "Modifier le souvenir n°%(id)s"
+
+#: templates/mnemosyne/memory_form.html:15
+msgid "Create a memory"
+msgstr "Créer un souvenir"
+
+#: templates/mnemosyne/memory_form.html:32
+#: templates/mnemosyne/memory_list.html:42
+msgid "Edit"
+msgstr "Modifier"
+
+#: templates/mnemosyne/memory_form.html:32
+msgid "Create"
+msgstr "Créer"
+
+#: templates/mnemosyne/memory_list.html:5
+#: templates/mnemosyne/memory_list.html:8
+msgid "List of memories"
+msgstr "Liste des souvenirs"
+
+#: templates/mnemosyne/memory_list.html:33
+msgid "permalink"
+msgstr "permalien"
+
+#: templates/mnemosyne/memory_list.html:37
+msgid "Actions"
+msgstr "Actions"
+
+#: templates/mnemosyne/memory_list.html:61
+msgid "Tags"
+msgstr "Tags"
+
+#: templates/mnemosyne/paginator.html:4
+msgid "Previous"
+msgstr "Précédent"
+
+#: templates/mnemosyne/paginator.html:7
+#, python-format
+msgid "Page %(num)s / %(tot)s"
+msgstr "Page %(num)s / %(tot)s"
+
+#: templates/mnemosyne/paginator.html:10
+msgid "Next"
+msgstr "Suivant"
+
+#: templates/mnemosyne/user_list.html:5
+#, python-format
+msgid "List of memories for user %(author)s"
+msgstr "Liste des souvenirs de l'utilisateur %(author)s"

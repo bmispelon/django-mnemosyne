@@ -1,0 +1,80 @@
+{% extends 'mnemosyne/base.html' %}
+
+{% load i18n tagging_tags %}
+
+{% block title %}{% trans "List of memories" %}{% endblock %}
+
+{% block content %}
+<h1>{% block list_title %}{% trans "List of memories" %}{% endblock %}</h1>
+
+{% block list_paginator_before %}
+{% if is_paginated %}
+	{% include 'mnemosyne/paginator.html' %}
+<hr />
+{% endif %}
+{% endblock %}
+
+{% block list_before %}{% endblock %}
+
+{% block list %}
+<ul id="memory-list">
+    {% for memory in object_list %}
+    <li class="item {% cycle "even" "odd" %}">
+    	<ul class="metadata">
+            <li class="author">
+            <span class="label">{% trans 'Author' %} :</span>
+            <a href="{% url mnemosyne-user-list memory.author.username %}">{{ memory.author.username }}</a></li>
+            <li class="lang">
+            <span class="label">{% trans 'Language' %} :</span>
+            <a href="{% url mnemosyne-memory-list-lang memory.lang %}">
+                {% trans memory.get_lang_display %}
+            </a></li>
+            <li class="permalink">
+            <a href="{{ memory.get_absolute_url }}">{% trans 'permalink' %}</a>
+            </li>
+            {% if memory.author and memory.author == user %}
+            <li>
+            <div class="label">{% trans 'Actions' %} :</div>
+            <ul class="toolbox">
+                <li class="tool edit"><a href="{% url mnemosyne-update-memory memory.id %}?next={{ request.get_full_path|urlencode }}">
+                    <img src="{{ MEDIA_URL }}/img/icons/webcontrol/green_edit.png"
+                        alt="edit"
+                        title="{% trans "Edit" %}" />
+                </a></li>
+                <li class="tool delete"><a href="{% url mnemosyne-delete-memory memory.id %}?next={{ request.get_full_path|urlencode }}">
+                    <img src="{{ MEDIA_URL }}/img/icons/webcontrol/green_delete.png"
+                        alt="delete"
+                        title="{% trans "Delete" %}" />
+                </a></li>
+            </ul></li>
+            {% endif %}
+    	</ul>
+        {% tags_for_object memory as tags %}
+        <div class="text{% if not tags %} hasnotags{% endif %}"
+        {% if LANGUAGE_CODE != memory.lang %}lang="{{ memory.lang }}"{% endif %}>
+        {% if memory.text_html %}
+            {{ memory.text_html|safe }}
+        {% else %}
+            <p><span class="iremember">{{ memory.i_remember }}</span> {{ memory.text|linebreaksbr }}</p>
+        {% endif %}</div>
+        {% if tags %}
+        <div class="tags">
+        	<span class="label">{% trans 'Tags' %} :</span>
+        	<ul>{% for tag in tags %}<li class="tag">{{ tag }}</li>{% endfor %}</ul>
+        </div>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endblock %}
+
+{% block list_after %}{% endblock %}
+
+{% block list_paginator_after %}
+{% if is_paginated %}
+<hr />
+	{% include 'mnemosyne/paginator.html' %}
+{% endif %}
+{% endblock %}
+
+{% endblock %}

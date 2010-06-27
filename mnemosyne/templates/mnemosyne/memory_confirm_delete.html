@@ -1,0 +1,14 @@
+{% extends 'mnemosyne/base.html' %}
+{% load i18n %}
+
+{% block content %}
+    <form action="." method="post">
+        <p>{% blocktrans with object.id as id %}You are about to delete the memory #{{ id }}, are you sure you want to proceed ?{% endblocktrans %}</p>
+        <div>
+            <input type="submit" value="{% trans "Delete" %}" />
+            <input type="hidden" name="next" value="{{ next }}" />
+            <a href="{{ next }}">{% trans "Cancel" %}</a>
+        </div>
+        {% csrf_token %}
+    </form>
+{% endblock %}

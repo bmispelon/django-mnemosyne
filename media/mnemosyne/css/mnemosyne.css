@@ -1,0 +1,81 @@
+.iremember {font-weight: bold;}
+
+.label {font-weight: bold;}
+
+/* Memory list */
+
+#memory-list,
+#memory-list .metadata,
+#memory-list .tags ul,
+#memory-list .toolbox {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#memory-list .item {
+	height: 140px;
+	position: relative;
+	margin: 16px 0;
+	padding: 10px;
+}
+
+#memory-list .item .metadata {
+	float: left;
+	width: 140px;
+	height: 140px;
+}
+
+#memory-list .item .text, #memory-list .item .tags {
+	margin: 0 0 0 170px;
+	border: 1px dashed #050002;
+}
+
+#memory-list .item .text {
+	padding: 5px 10px;
+	width: 378px;
+	height: 85px;
+	font-size: 130%;
+	line-height: 1.5em;
+	overflow: auto;
+}
+
+#memory-list .item .text p {
+	margin: 10px 0;
+}
+
+#memory-list .item .text p:first-child {
+	margin-top: 0;
+}
+
+#memory-list .item .text.hasnotags {
+	height: 130px;
+}
+
+#memory-list .item .tags {
+	height: 35px;
+	width: 398px;
+	line-height: 35px;
+	margin-top: 10px;
+}
+
+#memory-list .item .tags ul, #memory-list .item .tags li {
+	display: inline;
+}
+
+#memory-list .item .tags li {
+	margin: 0 8px;
+}
+
+/* Memory details */
+
+#memory-details .text {
+	padding: 10px;
+	font-size: 200%;
+	border: 1px dashed #050002;
+}
+
+/* Memory form */
+#memory-form {
+	padding: 10px;
+}

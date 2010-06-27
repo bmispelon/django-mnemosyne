@@ -1,0 +1,5271 @@
+[
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Reda Claire est passée en attraction au cinéma de la poorte de Saint-Cloud.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que mon oncle avait une 11 CV immatriculée 7070 RL2.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du cinéma _Les Agriculteurs_, et des fauteuils du club _Caméra_, et des sièges à deux places du _Panthéon_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Lester Young au _Club Saint-Germain_; il portait un complet de soie bleu avec une doublure de soie rouge.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Ronconi, de Brambilla et de Jésus Moujica; et de Zaaf, l'éternel « lanterne rouge ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'Art Tatum appela un morceau _Sweet Lorraine_ parce qu'il avait été en Lorraine pendant la guerre 14-18.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du « tac-tac ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un Anglais manchot qui battait tout le monde au ping-pong à Château d'Oex.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Ploum ploum tra la la_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'un ami de mon cousin Henri restait toute la journée en robe de chambre quand il préparait des examens.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du Citoyen du Monde Garry Davis. il tapait à la machine sur la place du Trocadéro.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des parties de barbu aux Petites-Dalles.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des Trois Evêchés : Metz, Toul et Verdun",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du pain jaune qu'il y a eu pendant quelque temps après la guerre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des premiers « flippers » : jsutement, ils n'avaient pas de flippers.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des vieux numéros de _L'Illustration_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des aiguilles en acier, et des aiguilles en bambou, que l'on aiguisait sur un grottoir après chaque disque.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'au « Monopoly », l'avenue Breteuil est verte, l'avenue Henri-Martin rouge, et l'avenue Mozart orange.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t« Ich weiss nicht, was soll es bedeuten\\n\\tDas Ich so traurig bin. »\\net de :\\n\\t« I wander lonely as a cloud\\n\\tWhen all at once I see a crowd\\n\\tA -- ? -- of golden daffodils. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Junot était duc d'Albrantès.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de:\\n\\t« Grégoire et Amédée\\n\\tprésentent\\n\\tGrégoire et Amédée\\n\\tdans\\n\\tGrégoire et Amédée »\\n(et de Furax aussi, bien sûr).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'un jour mon cousin Henri a visité une manufacture de cigarettes et qu'il en a rapporté une cigarette longue comme cinq cigarettes.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'apreès la guerre on ne trouvait presque pas de chocolat vienois, ni de chocolat liégeois, et que, pendant longtemps, je les ai confondus.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le premier microsillon que j'ai écouté était le _Concerto pour hautbois et orchestre__ de Cimarosa.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un pion corse qui s'appelait Flack « comme la D.C.A. allemande ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des « High Life » et des « Naja ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "avoir obtenu, au Parc des Princes, un autographe de Louison Bobet.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que pendant plusieurs années, l'expression la plus sale que je connaissais était « tremper la soupe »; je l'avais vue dans un dictionnaire d'argot que j'avais lu en cachette. Je n'ai jamais entendu personne l'employer et je ne suis plus très sûr de ce qu'elle voulait dire (sans doute un équivalent de « faire feuille de rose »).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des _Quatre Fils Aymon_ et d1une autre histoire qui s'appelait _Jean de Paris_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des séances du jeudi après-midi au cinéma _Royal-Passy_. il y avait un film qui s'appelait _les Trois desperados_, et un autre, _les Cinq balles d'argent_, qui comportait plusieurs épisodes.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que l'une des premières fois que je suis allé au théâtre ma cousine s'est trompée de salle -- confondant l'Odéon et la salle Richelieu -- et qu'au lieu d'une trgédie classique, j'ai vu l'_Iconnue d'Arras_ d'Armand Salacrou.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le vrai nom de Lord Mountbatten ltait Battenberg.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des foulards en soie de parachute.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la Cinémathèque de l'avenue de Messine.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du match Cerdan-Dauthuille.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que la ville d'Alger s'étend entre la pointe Pescade et le cap Matifou.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'à la fin de la guerre, mon cousin Henri et moi marquions l'avance des armées alliées avec des petits drapeaux portant le nom des généraux comandant des armées ou des corps d'armées. J'ai oublié le nom de presque tous ces généraux (Bradley, Patton, Joukov, etc.) mais je me souviens du nom du général de Larminat.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Michel Legrand fit ses débuts sous le nom de « Big Mike ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'un coureur de 400 mètres fu tsurpris en train de voler dans les vestiaires d'un stade (et que, pour éviter la prison, il fut obligé de s'engager en Indochine).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du jour où le Japon capitula.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "s'un morceau d'Earl Bostic qui s'appelait _Flamingo_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que je me demandais si l'acteur américain William Bendix était le fils de ces machines à laver.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _l'Adagio_ d'Albinoni.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'émission de Jean Lec : _Le Grenier de Montmartre_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du contentement que j'éprouvais quand, ayant à faire une version latine, je rencontrais dans le Gaffiot une phrase toute traduite.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'époqe où la mode était aux chemises noires.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des postes à galène.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'avais commencé une collection de boîtes d'allumettes et de paquets de cigarettes.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que c'est grâce à Édith Piaf que les Compagnons de la Chanson, Eddie Constantine et Yves Montand débutèrent.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'époque où Sacha Distel était guitariste de jazz.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des autobus à plate-forme : quand on voulait descendre au prochain arrêt, il fallait appuyer sur une sonnette, mais ni trop près de l'arrêt précédent, ni trop près de l'arrêt en question.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'époque où un immeuble (de dix étages) qui venait d'être achevé au bout de l'avenue de la Soeur-Rosalie était le plus haut de Paris et passait pour un gratte-ciel.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'étais très triste que l'actrice Maggie McNamara n'ait joué que dans _the Moon is blue_. Plus tard, j'ai appris qu'elle était la fille du ministre de la guerre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Voltaire est l'anagramme de Arouet L(e) J(eune) en écrivant V au lieu de U et I au lieu de J.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que c'est en voulant monter une superproduction intitulée _Marco Polo_ que Raoul Lévy fit faillite.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que c'est Sacha Guitry qui trouva le slogan « Eleska c'est exquis ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Christian Jaque divorça d'avec Renée Faure pour épouser Martine Carol.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le voureur automobile Sommer était surnommé le « sanglier des Ardennes ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « GARAP ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des G-7 avec leurs vitres de séparation et leurs strapontins.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que _les Noctambules_ et _le Quartier latin_, rue Champollion, étaient des théâtres.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des scoubidous.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Dop Dop Dop, adoptez le shampooing Dop. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "comme c'était agréable, à l'internat, d'être malade et d'aller à l'infirmerie.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'à l'occasion de son lancement, l'hebdomadaire _le Hérisson_ (« _le Hérisson_ rit et fait rire ») donna un grand spectacle au cours duquel, en particulier, se déroulèrent plusieurs combats de boxe.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'une opérette dans laquelle jouaient les Frères Jacques, et Irène Hilda, Jacques Pils, Armand Mestral et Maryse Martin. (Il y en a eut une autre, des années plus tard, également avec les Frères Jacques, qui s'appelait _la Belle Arabelle_; c'est peut-être dans celle-là, et pas dans la première, qu'il y avait Armand Mestral).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que je devins, sinon bon, du moins un peu moins nul en anglais, à partir du jour où je fus le seul de la classe à comprendre que _earthenware_ voulait dire « poterie ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'époque où il fallait plusieurs mois et jusqu'à plus d'une année d'attente pour avoir une nouvelle voiture.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'a Villard-de-Lans j'avais trouvé très drôle qu'un réfugié qui se nomamit Normand habite chez un paysan nommé Breton. Des années plus tard, à Paris, j'ai ri tout autant de savoir qu'un restaurant appelé _le Lamartine_ était célèbre pour ses chateaubriands.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des rubriques « Vrai ou faux? », « Le saviez-vous? », « Incroyable mais vrai » dans les journaux d'enfants.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Jean Bretonnière quand il chantait _Toi ma p'tit' folie_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des attractions qu'il y avait au _Gaumon-Palace_. Je me souviens aussi du _Gaumont-Palace_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du mal qu1il sont eu à creuser les fondations du drug-store Saint-Germain.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du bonhomme en bois des _Galeris Barbès_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _la Minute de Saint-Granier_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des courses derrière grosses motos au Parc des Princes.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Langres est triplement célèbre: pour ses records de froid, sa coutellerie et Diderot.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Les yeux fermés, j'achète tout au Printemps » et de « Quand je les ouvre, j'achète au Louvre ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Ridgway la peste ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du grand orchestre de Ray Ventura.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que l'une des pistes de ski de Villard-de-Lans s'appelle « Les Clochettes », une autre « Les Bains » et la plus dure « La Cote 2000 ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Papa, Maman, la Bonne et Moi_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que l'un des livres qui me faisait le plus rêver était un traité de savoir-vivre présenté par le baron André de Fouquières.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Michel Butor est né à Mons-en-Baroeul.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'affaire Kravchenko.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'Alain Delon était commis charcutier (ou garçon boucher?) à Montrouge.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que _Caravan_, de Duke Ellington, était une rareté discographique et que, pendant des années, j'en connus l'existence sans l'avoir jamais entendu.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « un soudard ne vit que de rapines obscures ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Jean Grémillon est mort le même jour que Gérard Philippe.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du _Capoulade_ et du _Mahieu_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'une revue qui s'appelait _Je sais tout_ et dont le symbole était un homme au corps en forme de globe terrestre (n'était-ce pas plutôt un globe terrestre devenu visage?).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le quatre-quarts doit son nom au fait qu'il est composé d'un quart de lait, d'un quart de sucre, d'un quart de farine et d'un quart de beurre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que « Pondichéry, Karikal, Yanaon et Mahé ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand j'étais collé.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que dans le film _Knock on wood_, Danny Kaye est pris pour un espion du nom de Gromeck.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de:\\n\\t« J'avais une soif de lionne:\\n\\tVoulant savoir à quoi l'eau sert,\\n\\tJe m'écriai: \" Tonnerre! Avalons \" ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que M. Coudé du Foresto fut délégué de la France à l'O.N.U. et que l'on faisait sur son nom une astuce que je n1arrivais pas à comprendre (elle était, du reste, tout à fait bancale).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Shirley McLaine a fait ses débuts dans _Mais qui a tué Harry ?_ d'Hitchcock.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'un magasin d'alimentation de luxe, avenue Mozart, vendait, extrêmement cher, en décembre, des corbeilles de fruits avec, en particulier, des « raisins de Noël » très réputés pour leur rareté, ovoïdes, très gros et translucides, et insipides.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que l'amiral Thierry d'Argenlieu était moine.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des « mousquetaires » du tennis : Petra, Borotra, Cochet et Destremeau.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Xavier Cugat.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « This is Cinerama ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'affaire Kovacs encore appelée « l'affaire du bazooka ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Bébé Cadum ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'en septembre, àParis, dans les années d'après la guerre, ily avait beaucoup de guêpes, beaucoup plus, me semble-t-il, que de nos jours.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que _la petite Hutte_ a été jouée pendant plusieurs années et que cela constituait un record absolu.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que _Fleur de Cactus_, aussi, a tenu très longtemps et que cela a permis à Sophie Desmarets de s'acheter un magasin d'antiquités dans le passage de Choiseul, qu'elle a appelé « Cactus Bazaar ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la mode des duffle-coats.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Paul Ramadier et de sa barbiche.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand il y avait des petits autobus bleus à tarif unique.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Colette était membre de l'Académie royale de Belgique.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un apéritif qui s'appelait « le Bonal ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Prosper youp-la-boum_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des troisièmes classes dans les chemins de fer.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que dans _Merrily we live_, il y deux chiens qui s'appellent, l'un « Get out of it », et l'autre « You too ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Jean Gabin, avant la guerre, devait, par contrat, mourir  la fin de chaque film.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'exposition Yves Klein, à la galerie Allendy, rue de l'Assomption.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'il a fallu plusieurs jours pour que René Coty, à Versailles, soit élu Président de la République.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des deux films de Roberto Benzi.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d' « Astra » : « ... un préjugé qui vous coûtait cher... »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'Agnès Varda était photographe au T.N.P.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que la violoniste Ginette Neveu est morte dans le même avion que Marcel Cerdan.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'_Andréa Doria_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Khrouchtchev a frappé avec sa chaussure la tribune de l'O.N.U.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand _l'Express_ est devenu un quotidien.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Walkowiak.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Jeanne Moreau jouait au T.N.P.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'a Michel-Ange Auteuil, là où il y a aujourd'hui un _Monoprix_ (ou un _Prisunic_), il y avait autrefois un cinéma.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Poirot-Delpech était chroniqueur judiciaire au _Monde_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'expédition du _Kon-Tiki_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de mon étonnement le jour où j'ai appris que le palais Chaillot n'avait rien à voir avec le Trocadéro.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que ma première bicyclette avait des pneus pleins.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que les deux Frères Jacques sont vraiment frères et qu'ils s'appellent Bellec, comme un de mes anciens camarades de classe.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'Henri Salvador a enregistré quelque chose comme les premiers disques français de Rock and Roll sous le nom de henry Cording.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand on revenait de vacances, le 1er septembre, et qu'il y avait encore un mois entier sans école.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'enlèvement du petit Peugeot.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Jean Bobet -- le frère de Louison -- était licencié d'anglais.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du présentateur de concerts Charles Bassompierre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de:\\n\\t« C'est nous les gars de la marine,\\n\\tdu plus p'tit jusqu'au plus grand,\\n\\tdu moussaillon au commandant,\\n\\tpartout du Chili jusqu'en Chine,\\n\\ton les r'çoit à brazouverts,\\n\\tles vieux loups d'mer!»",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'au pied de la passerelle qui, en haut de la rue du Ranelagh, traversait le chemin de fer de ceinture et permettait d'aller au bois de Boulogne, il y a vait une petite construction qui servait d'échoppe à un cordonnier et qui, après la guerre, fut couverte de croix gammées parce que le cordonnier avait été, paraît-il, collaborateur.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'Alain Robbe-Grillet était ingéneiru agronome.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que je croyais que les premières bouteilles de coca-cola -- celles qu'auraient bues les soldats américains pendant la guerre -- contenait de la benzedrine (dont j'étais très fier de savoir que c'était le nom scientifique du « maxiton »).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que je n'aimais pas la choucroute.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'adorais __le Bal des Sirènes_ avec Esther Williams et Red Skelton, mais que j'ai été horriblement déçu quand je l'ai revu.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la trouille que j'avais -- quand j'étais interne -- qu'on me passe la bite au cirage.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que l'avenue de New York s'appelait l'avenue de Tokyo.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Fidel Castro était avocat.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Charles Rigoulot.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'ai été très surpris d'apprendre que mon prénom voulait dire « travailleur de la terre ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que c'est à cause des maisons de graineterie que François Truffaut, quand il était militaire, a écrit à Louise de Vilmorin des lettres qui ont été publiées ensuite dans l'hebdomadaire _Arts_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Warren Beatty est le petit frère de Shirley McLaine.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'en troisième j'ai passé plus de quinze jours à faire un grand plan de la Rome antique.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Paderewski a été élu Président de la République Polonaise.\\n155\\nque la première manifestation à laquelle j'ai participé avait pour cause l'élection -- ou le retour -- en Sorbonne du pétainiste Jean Guitton.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des émissions d'Henri Kubnick.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Darry Cowl s'appelle André Darrigaut.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "Et cela me fait me souvenir du coureur cycliste André Darrigade.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Maurice Ravel était très fier de la popularité de son _Boléro_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que les coureurs cyclistes avaient une chambre à air de secours roulée en huit autour de leurs épaules.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Claudia Cardinale est née à Tunis (ou en tout cas en Tunisie).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'étais fier de connaître et d'utiliser, relativement tôt, des mots et des expressions comme « à la rescousse », « estafette », « caducée », « dès potron-minet ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que, dans les wagons de métro le plan de la ligne indiquait, encrtés sous chaque nom de station, les rues et les numéros de rues sur lesquels débouchaient les sorties (comment dire cela plus simplement?)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Carette est mort parce qu'il portait une chemise en nylon et qu'il s'était endormi en fumant une cigarette.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'après le mort de Martine Carol, quelqu'un profana sa tombe dans l'espoir, supposa-t-on, d'y trouver des bijoux.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Dinu Lipatti apprit très tard, vers vingt ans, à jouer du piano.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que les Platters furent impliqués dans une affaire de drogue, et aussi que le bruit courut que Dalida était un agent du F.L.N.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des six-jours au Vel d'hiv.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des concerts de Norman Granz _Jazz at the Philarmonic_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des _Deux-Anes_ et des _Trois-Baudets_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des ballets du Marquis de Cuevas.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le Dr.Spock fut candidat à la présidence des États-Unis.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Jacquelin Auriol, la femme « la plus vite du monde ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Mai 68.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du Biafra.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la guerre entre l'Inde et le Pakistan.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Youri Gagarine.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le _Studio Jean Cocteau_ s'appelait avant le _Celtic_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le lendemain de la mort de Gide, Mauriac reçut ce télégramme : « Enfer n'existe pas. Peux te dissiper. Stop. Gide. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Burt Lancaster était acrobate.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Johnny Halliday est passé en vedette américaine à _Bobino_ avant Raymond Devos (je crois même avoir dit quelque chose du genre de : « si ce type fait une carrière, je veux bien être pendu... »).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Marina Vlady fit ses débuts dans un film de Cayatte qui s'appelait _Après nous le déluge_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'étais souvent confondu avec un élève qui s'appelait Bellec.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'avais une lampe-torche munie d'une poignée qui la faisait ressembler à un révolver.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des trous dans les tickets de métro.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du one-man-show de Bonino.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le trompettiste Clifford Brown est mort à vingt ans dans un acident de voiture.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Mademoiselle Dents-Blanches_, avec Geneviève Cluny.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que S.F.I.O. voulait dire: Section Française de l'Internationale Socialiste.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des émissions de jazz de Sim Copans",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la surprise que j'ai éprouvée en apprenant que « cow-boy » voulait dire « garçon vacher ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du coureur cycliste Louis Caput.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Robespierre eut la machoire fracassée par le gendarme Merda, qui devint plus tard colonel.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de:\\n\\t« C'est assez, dit la baleine, j'ai le dos fin, je me cace à l'eau. »\\net de:\\n\\t« Racine boit l'eau de la fontaine Molière. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des radio-crochets.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Marina Vlady est la soeur d'Odile Versois (et qu'elles sont les filles du peintre Poliakoff).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des films avec le chien Rin-Tin-Tin, et aussi de ceux avec Shirley Temple, et aussi des poésies de Minou Drouet.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du champion de rugby à XIII Puig-Aubert, surnommé « Pipette ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du scandale des « Ballets roses » dans lequel fut compromis le Président de la Chambre, André Le Troquer.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'il y avait jadis à _la Bûcherie_, avant qu'elle ne s'agrandisse, une tapisserie de Jean Lurçat sur laquelle on pouvait lire ce vers : « La nuit cache le jour à l'envers de son noir ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'à l'emplacement de l'actuel _Hippopotamus_ (rive gauche, non loin de Maubert), était installé le célèbre restaurateur Garin.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la mode des cravates en soie tricotée.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que la station de métro (et, je suppose, la palce) Charles-Michels s'appelait « Beaugrenelle ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Où vas-tu Basile, sur ton blanc cheval perché_, de _La petite diligence_ et de _J'ai pas tué, j'ai pas volé, mais j'ai pas cru ma mère_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la feuille d'impôts de Chaban-Delmas.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le prénom de toutes les héroïnes de Pierre Benoit commence par la lettre A (je n'ai jamais compris pourquoi on trouvait cela prodigieux).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que quand Sophie, Pierre et Charles faisaient la course, c'était Sophie qui gagnait, car Charles traînait, Pierre freinait, alors que Sophie démarrait.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des _Lettres Françaises_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que dans _le Livre de la jungle_, Bagheera est la panthère, Mowgli le petit homme, et les Bandar-Logs les singes (mais comment s'appellent l'ours et le serpent?)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Fausto Coppi avait une amie que l'on appelait « la Dame blanche ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un fromage qui s'appelait « la Vache sérieuse » (« la Vache qui rit » lui a fait un procès et a gagné).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un acteur comique mexicain qui se nommait Cantinflas (je crois que c'est lui qui jouait Passepartout dans _le Tour du monde en quatre-vingt jours_).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du nageur Alex Jany.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des pigeons de Jacques Duclos.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Jean-Paul Sartre a travaillé au scénario du _Freud_ de John Huston.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'ai appris avec un soin particulier le nom des couleurs en héraldique : sinople veut dire vert, sable veut dire noir, gueules veut dire rouge, etc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du « quarteron » de généraux du putsch d'Alger : Salan, Jouhaux, Challe et Zeller.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t« Jules est Hercule, Séraphin est musicien, Maman somnambule et moi je n'fous rien!»\\net de :\\n\\t« Y'a neufs à la coque\\n\\tY'a huit'res de Marennes\\n\\tY'a sept épatant\\n\\tY'a six stème métrique\\n\\tY'a cinq ucufa\\n\\tY'a quatre ine de Russie\\n\\tY'a trois en Champagne\\n\\tY'a deux testaments, l'ancien et le nouveau\\n\\tMais y'a qu'un cheveu dur la tête à Mathieu et y'a qu'une dent dans la bouche à Saint Jean. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des petites pilules « Carter » pour le foie",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que l'on racontait que Bernard Buffet était pauvre et que « fou de peinture », il en était réduit à peindre sur ses propres draps!",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des dessins de Sennep dans le _Figaro_ et de ceux de Mittelberg (qui ensuite s'est mis à signer Tim) dans l'_Humanité_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'André Gide a été maire d'un petit village de Normandie et qu'il se flattait d'être pomologue.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des pochettes de disque, de jazz le plus souvent, dessinées par David Stone Martin.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le premier film en cinémascope s'appelait _la Tunique_ (et qu'il était nul).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Boris Vian est mort en sortant d'une projection d'un film tiré de son livre _J'irai cracher sur vos tombres_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "Je me souviens de Pils et Tabet.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le cycliste Ferdinand (Ferdi) Kubler portait ses lunettes de soleil (en mica avec un serre-tête élastique) au dessus de la saignée du coude, ainsi que le faisaient généralement les champions de ski, alors que les cyclistes les relevaient sur leur front ou au-dessus de la visière de leur casquette.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Dario Moreno.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Roger Vailland écrivit une pièce intitulée _le Colonel Foster plaidera coupable_ que le ministre de l'Intérieur fit interdire.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'à la fin de la guerre, il y eut une « affaire Petiot » qui ressemblait l'affaire Landru.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'émission d'Harris et Sedouy, _Seize millions de jeunes_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du clown russe Popov et du clown suisse Grock.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de quelques footballeurs : Ben Barek, Marche et Jonquet et, plus tard, Just Fontaine.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que, vers le milieu des années cinquante, le chic consista, pendant quelques temps, à porter en place de cravate des lacets d'une finesse parfois extrême.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du saxophoniste Barney Willem.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que la palindrome d'Horace __ Ecaroh __ est le titre d'un morceau d'Horace Silver.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'incendie du drug-store des Champs Élysées.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Sabu.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Malcolm X.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que la première ligne équipée de métros sur pneus fut la ligne Châtelet-Lilas.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du Docteur Bombrad.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que pendant la guerre les Anglais avaient des Spitfire et les Allemands des Stukas (et des Messerschmidt).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des 121.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Stendhal aimait les épinards.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du concours Lépine.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Citroën utilisa la Tour Eiffel pour une gigantesque publicité lumineuse.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que De Gaulle avait une frère, prénommé Pierre, qui dirigeait la foire de Paris.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'affaire Finaly.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du jeune acteur Robert Lynen, qui tourna dans _Poil de Carotte_ et dans _Carnet de bal_ (où il avait un tout petit rôle) et qui mourut au début de la guerre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'attentat du Petit-Clamart.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du cinéma _le Studio Universel_ avenue de l'Opéra, qui était spécialisé dans les festivals de dessin animés.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Lester Young était surnommé « The Prez » et Paul Quinichette « The Vice-Prez ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le SHAPE désignait les Supreme Headquarters Allied Powers Europe.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des tables de logarithmes de Bouvard et Ratinet.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'assassinat de Sharon Tate.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que les principales victimes du McCarthysme dans le domaine du cinéma furent les réalisateurs Cyril Entfield, John Berry, Jules Dassin et Joseph Losey, ainsi que le scénariste Dalton Trumbo. Tous s'exilèrent, sauf Dalton Trumbo qui, pendant plusieurs années, fut contraint de travailler sous des noms d'emprunt.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'Audie Murphy fut le soldat américain le plus décoré de la Deuxième Guerre Mondiale et qu'il devint acteur après avoir joué son propre rôle dans un film (médiocre) retraçant ses exploits.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que James Stewart joua le rôle de Glenn Miller dans le film consacré à la vie de ce musicien de jazz dont le morceau le plus connu s'appelle _Moonlight serenade_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que l'une des premières décisions que prit de Gaulle à son arrivée au pouvoir fut de supprimer la ceinture des vestes d'uniforme.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que les quatre phrases inscrites sur les frontons du Palais de Chaillot ont été écrites, spécialement, par Paul Valéry.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'avant, le comptoir et la partie « cuisine » de _la Petit Source_, Boulevard Saint-Germain, se trouvaient à droite en entrant et non, comme aujourd'hui, à gauche au fond.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Julien Gracq était professeur d'histoire au lycée Claude Bernard.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du Président Rosko.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'une danse qui s'appelait la Raspa.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Lee Harvey Oswald.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du tennis-barbe: on comptait les barbus qui passaient dans la rue: 15 pour le premier, 30 pour le second, 40 pour le troisième et « Jeu » pour le quatrième.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de:\\n\\t« Ramadjah la Mouquère\\n\\tRamadjah Bono\\n\\tTremp' ton cul dans la soupière\\n\\tTu m'diras si c'est chaud. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que pendant son procès, Eichmann état enfermé dans une cage de verre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du boxeur Ray Famechon, et de Stock et de Charron, et de beacoup de catcheurs (L'Ange blanc, le Bourreau de Béthune, le Petit Prince, Doktor Adolf Kaiser, etc.)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'affaire Markowitch.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des plaques de mica ou de celluloïd que l'on fixait sur le devant des capots (près du bouchon de radiateur) et qui empêchaient les moustiques et les pucerons de venir s'écraser sur le pare-brise.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que les trois danseurs étoiles des Ballets de Paris étaient Roland Petit, jean Guélis et Jean Babilée.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que saint Crépin et saint Crépinien sont les patrons des cordonniers.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un très beau récital donné dans la cathédrale de Chartres (en 1953 ?) par la pianiste Monique de la Bruchollerie.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'une anecdote qui fait remonter l'invention de la mayonnaise au siège de Port-Mahon (sous Napoléon III).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Jean Jaurès fut assassiné au _Café du Croissant_, rue Montmartre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la marée noire (la premièr, celle du _Torrey-Canyon_) et des boues rouges.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le mot _robot_ est un mot tchèque, inventé, je crois, par Carel Capek.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des aventures de Luc Bradfer.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du grand orchestre de Woody Herman.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que ce que l'on appelle caporal et sergent dans l'infanterie s'appelle brigadier et maréchal-des-logis dans l'artillerie, les blindés et le train.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Maurice Chevalier avait une propriété à Marnes la Coquette.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des plasticages dont à la fin de la guerre d'Algérie fut plusieurs fois victime un tailleur du boulevard Saint-Germain, Jack Romoli.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des trois héroïnes des _Girls_ de Georges Cukor : Taina Egg (une Finlandaise), Mitzi Gaynor, et la femme de Rex Harrisson, Kay Kendall, qui mourut peu de temps après le film.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que tous les nombres dont les chiffres donnent un total de neuf sont divisibles par neuf (parfois je passais des après-midi à le vérifier...).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'époque où il était rarissime de voir des pantalons sans revers.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Porfirio Rubirosa (le gendre de Trujillo ?)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que « Caran d'Ache » est une transcriprion francisée du mot russe (Karandach ?) qui veut dire « crayon ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des deux cabarets de la Contrescarpe, _le Cheval d'Or_ et _le Cheval Vert_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Chérie je t'aime, chérie je t'adore_ (également connu sous le nom de _Moustapha_), interpreté par Bob Azzam et son orchestre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le premier film de Jerry Lewis et Dean Martin que j'ai vu s'appelait _la Polka des marins_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des heures que j'ai passées, en classe de troisième je crois, à essayer d'alimenter en eau, gaz et électricité, trois maisons, sans que les tuyaux se croisent (il n'y a pas de solution tant que l'on reste dans un espace à deux dimensions; c'est un des exemples élémentaires de la topologie, comme les ponts de Koenigsberg ou le coloriage des cartes).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\tDoit on dire « six et quatre font tonze »\\n\\tou « six et quatre font honze »?\\net de :\\n\\tQuelle est la couleur du cheval blanc d'Henri IV",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le personnage central de _l'Étranger_ se nomme Antoine (?) Meursault : il a été souvent remarqué que l'on ne se souvient pas de son nom.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la barbe à papa dans les fêtes foraines.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du rouge à lèvres « Baiser », « le rouge qui permet de baiser ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des billes en terre qui se cassaient en deux dès que le choc était un peu fort, et des agates, et des gros callots de verre dans lesquels il y avait parfois des bulles.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du gang des tractions avant.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la Baie des Cochons.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des Trois Stooges, et de Bud Abbott et Lou Costello; et de Bob Hope, Dorothy Lamour et Bing Crosby; et de Red Skelton.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Sydney Bechet a écrit un opéra -- ou bien était-ce un ballet? -- intitulé _la Nuit est une sorcière_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des sacs « hermès », avec leur tout petit cadenas.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du mal que j'ai eu à comprendre ce que voulait dire l'expression « sans solution de continuité ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du jeu « Enrichissez votre vocabulaire » dans le _Reader's Digest_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des bijoux « Buram » (n'y avait-il pas aussi les bijoux « Murat »?).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t« Lundi matin\\n\\tL'Empereur, sa femme et le P'tit Prince\\n\\tSont venus chez moi\\n\\tPour me serrer la pince\\n\\tComme j'étais parti\\n\\tLe P'tit Prince a dit :\\n\\tPuisque c'est ainsi nouve reviendrons mardi. »\\nEtc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t- Pourquoi les filles du Nord sont-elles précoces ?\\n\\t- Parce que le concerto en sol mineur.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la question : « \" Nabuchodonosor \", écris ça en deux lettres! » et de la réponse : « ça : c cédille, a. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « mon pin ballot dans mon culot ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t- Quelle différence y'a-t-il entre la Tour Eiffel, ta chemise et ma famille ?\\n\\t- ?\\n\\t- La Tour Eiffel est colossale et ta chemise est sale au col!\\n\\t- ? Et ta famille ?\\n\\t- Elle va très bien, merci.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Ivan Labibine Osouzoff, et de Yamamoto Kakapoté, et de Harry Cover.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Jean-Paul Sartre écrivit pour France-Soir une série d'articles sur Cuba intitulée\\n_Ouragan sur le sucre_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Bourvil.\\nJe me souviens d'un sketch de Bourvil dans lequel il répétait plusieurs fois, en conclusion de chaque paragraphe de sa pseudo-conférence : « l'alcool, non, l'eau ferrugineuse, oui! »\\nJe me souviens de _Pas si bête_, et du _Rosier de Madame Husson_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des « Wakouwa ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'il y avait un croiseur nommé le _Georges Leygues_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'étais fier de connaître beaucop de mots dérivés de _caput_ : capitaine, capot, chef, cheptel, caboche, capitale, Capitole, chapitre, caporal, etc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _la Mascotte du Régiment_, avec Shirely Temple.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Roger Nicolas qui disait tout le temps : « Écoute! Écoute! »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des « Carambar ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des « Lithinées du Docteur Gustin ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des mois de mai à Étampes quand on commençait à aller à la piscine.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'avais l'ambition d'avoir un jour les 57 variétés _Heinz_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Closterman et du commandant Mouchotte qui depuis est devenu pour moi le nom d'un chat que des amis avaient trouvé rue du Commandant-Mouchotte, derrière Montparnasse.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Premier de Cordée_ de Frisson-Roche.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la grande panne d'électricité qui plongea New York dans l'obscurité pendant plusieurs heures.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Brigitte Fossey et de Georges Poujouly dans _Jeux interdits_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Théo Sarapo.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un hebdomadaire qui s'appelait _le Nouveau Candide_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que dans _Huis-Clos_ il est question d'un « bronze de Barbédienne ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qie j'ai plusieurs fois essayé de me servir d'une règle à calcul, et que plusieurs fois aussi j'ai commencé des manuels de maths modernes en me disant que si j'allais lentement, si je lisais toutes les leçons dans l'ordre en faisant les exercices et tou, il n'y avait aucune raison pour que je cale.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du _Théâtre de Lutèce_, rue de Jussieu.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _la Cigale_, à Pigale, où Al Lirvat et son orchestre jouèrent pedant plus de trente ans.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la Bande à Baader.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la Nouvelle Vague.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que c'est dans un court-métrage de la Nouvelle Vague intitulé _Histoire d'eau_ que Jean-Claude Brialy prononce cette phrase grandiose : « Plus je pédale lentement, moins je vais vite. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "aussi que _l'Express_ s'étant sous-titré « L'hebdomadaire de la Nouvelle Vague », _le Canard enchaîné_ avait fait remarquer qu'on aurait davantage attendu d'un organe de presse qu'il se vante de donner des nouvelles précises.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Joseph Laniel.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Suivez le boeuf ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des programmes de radio (_Comme il vous plaira_) présentés par Jean-Pierre Morphée et?",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Jean Nohain, dit Jaboune, et de son émission _Quarante millions de Français_ (et de _Reine d'un Jour ?_)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Jean Constantin quand il chantait _Où sont passées mes pantoufles ?_",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Moustache.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un musicien de jazz qui s'appelait Mowgli Jospin.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "fu _Golf Drouot_ (je n'y suis jamais allé).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que la mise en ondes de _Signé Furax_ et de quelques autres émissions « burlesques » était de Pierre Arnaud de Chassis-Poulet.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « la pile Wonder ne s'use que si l'on s'en sert ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Carioca_, de _Jumbo_, de _Bambi_ et des _Trois Caballeros_ (et de _Fantasia_ bien sûr).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un livre qui s'appelait _Jody et le Faon_, et d'un autre qui racontait la vie d'un éleveur de castor (avec, aussi, un animal, une espèce de cerf, que j'appelais toujours « original » au lieu de « orignal »), et de _Mon amie Flicka_, et de Mazo de la Roche.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Sur le banc_, avec Raymond Souplex et Jane Sourza.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des livres de la collection Signes de Piste (_la Bande des Ayacks_, _le Prince Eric_, _le Bracelet de vermeil_, etc.)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Marie Besnard, la bonne dame de Loudun.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Sur un imperméable C.C.C., la pluie frappe sans entrer » (au collège, on disait « entre sans frapper »).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que les trois rois mages s'appellent Gaspard, Melchior et Balthasar.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'un des trois petits cochons s'appelle Naf-Naf, amis les autres?",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de seulement quelques-uns des sept nains: Grincheux, Simplet, Doc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du journal _Radar_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du dentifrice « Email Diamant » avec son toréador chantant.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la ligne de métro « Invalides-Porte de Vanves ». C'était la plus courte de Paris. Et maintenant c'est un fragment de la plus longue.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que mon oncle avait un appareil pour aiguiser ses lames de rasoir.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'un pion au lycée Claude-Bernard qui avait une écharpe jaune; c'est à cette occasion que j'ai appris que le jaune étais la couleur des cocus.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand j'ai appris que Köchel (Queue-Chelle) était un homme et ce que voulait dire BWV.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des combles.\\n\\t- Quel est le comble de la peur?\\n\\t- C'est de reculer devant une pendule qui avance.\\n\\t- Quel est le comble pour un coiffeur?\\n\\t- C'est de friser le ridicule et de raser les murs.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du film de Louis Daquin, _l'École buissonière_, avec Bernard Blier, qui s'inspirait des méthodes Freinet.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que j'étais abonné à un Club du Livre et que le premier livre que j'ai acheté chez eux était _Bourlinguer_ de Cendrars.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des publicités peintes sur les maisons.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du vase de Soissons.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des Isetta, et aussi de la vogue des scooters.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Elle n'a dansé qu'un seul été_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Caryl Chessman.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'Abbé Pierre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la myxomatose.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Continent perdu_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Zappy Max.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Zatopek.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'enlèvement de Fangio (par des Castristes?)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Mister Maggoo_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand les voitures pouvaient klaxonner, et des klaxons qui faisaient \" rheuh-rheuh \".",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des soeurs Goitschel.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du _Caméléon_, rue Saint-André des Arts, avec un batteur qui s'appelait Al Levitt.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Bao Daï et, beaucoup plus tard, de Madame Nhu.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du coureur cycliste anglais Harris qui était recordman du monde (des cent mètres? de l'heure?) sur piste.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la colombre de Picasso, et de son portrait de Staline.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Jean Paul David.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Quand les parents boivent, les enfants trinquent ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du Cardinal Spellmann.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du colonel Townsend.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'expédition Orénoque-Amazone. Et d'Annapurna premier huit mille. Et du Sherpa Tensing.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du _Père tranquille_, avec Noël-Noël.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Christine Keeler et de l'affaire Profumo.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du géant Atlas (et du nain Pierhal?)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Lumumba.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'en haut du Boulevard Saint-Michel il y avait un magasin, appelé je crois le _Chantecler_, où l'on pouvait, moyennant vingt francs (anciens) écouter un disque (78 tours).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand je me suis cassé le bras et que j'ai fait dédicacer le plâtre par toute la classe.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des courses en sacs.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « fond dans la bouche et pas dans la main... »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des _Cahiers des Saisons_, de _84_, de _Contemporains_, du _Mercure de France_, de _la Table ronde_, des _Cahiers de la Pleiade_, etc., etc., etc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des concerts Pacra. Et de l'Européen.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Vidal Sasoon.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des « Provos ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand j'attendais que la cloche sonne la fin de la classe.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'article de Claude Lanzmann dans _les Temps modernes_ qui s'appelait « Du hareng saur au caviar ou la passion selon Françoise Giroud ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des boîtes de coco.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que Louis Malle a commencé sa carrière en tournant _le Monde du silence_ avec le commandant Cousteau.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Claude Luter au _Lorientais_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la _Rose Rouge_ et de _la Fontaine des Quatre Saisons_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Paul-Émile Victor. Et d'Haroun Tazieff.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t- Ouk Elabon' Polin'?\\n\\t- Alagar, eplis éfé kaka!\\net de :\\n\\tCesarem legato alacrem eorum.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Liège-Bastogne-Liège, et de Bordeaux-Paris, et de Paris-Brest-Paris, et de Paris-Camembert, et de Milan-San Remo, et du tour du Dauphiné, etc., etc., etc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des monômes du bac.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'ancienne gare Montparnasse.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "qu'au référendum de 1946, il y avait deux questions et que mon oncle m'avait expliqué que ce n'était pas du tout la même chose de répondre NON-OUI et de répondre OUI-NON.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Jacques Goddet et de Georges Briquet.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de l'émission de radio du jeudi _les Jeunes Français sont musiciens_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'une essence dont le symbole était un chevaier ailé, et d'une autre, appelée « Azur ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des batailles de polochon.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le numéro des « Peugeot » (201, 203, 302, 303, 403, 404, etc.) avait un sens précis, et aussi le numéro des locomotives (par exemple : _Pacific 231_).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du _Petit Roi d'O_. Slogow, et des journaux que je lisais en attendant mon tour chez le coiffeur.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des « Juvaquatre ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du bain que je prenais le samedi après-midi en ravenant du collège.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que je rêvais d'arriver au « Meccano » ṇ° 6.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des soldats de plomb vraiment en plomb et des soldats en terre.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand j'étais louveteau, mais j'ai oublié le nom de ma patrouille.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des publicités phosphorescentes pendant l'entracte au cinéma _Royal-Passy_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de:\\n\\t« Combien pour ce chien dans la vitrine\\n\\tCe joli p'tit chien noir et blanc ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Sixteen toons_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Gaston y'y le telefon qui son_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Là-haut sur la montagne y'avait un vieu chalet murs blancs toit de bardeau devant la porte un grand bouleau. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t« là-haut sur la montagne\\n\\tIl y avait un gros cu\\n\\tUn gros curé de campagne\\n\\tQui avait un gros bout\\n\\tun gros bouquin d'prières\\n\\tPour en tirer un coup »\\n\\t(un couplet?)",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de : j'en ai marre, marre à bout, bout de ficelle, selle de cheval, cheval de course, course à pied, pied à terre, terre de feu, feu follet, lait de vache, vache de ferme, ferme ta gueule, etc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "combien j'aimais Johann Strauss, et de mon bonheur quand j'ai vu _Valses de Vienne_ au Châtelet.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que le mot RADAR est un acronyme; et aussi le mot NYLON qui contiendrait une allusion injurieuse à l'égard des Japonais (à cause de la soie artificielle : je me souviens de la rayonne).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'une publicité en vers qui se terminait ainsi (j'ai oublié le début du premier vers):\\n« ... son visage,\\nLes rides sur son front ont tracé leurs sillons,\\nMais ses yeux sont gardés des atteintes de l'âge,\\nGrâce aux verres STIGMAL, aux lunettes HORIZON! »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la Famille Duraton.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des bonnets de fourure à la Davy Crockett.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "quand j'allais chercher du lait dans un bidon en fer blanc tout cabossé.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Tant qu'il y aura des hommes_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "avoir gagné un tournoi de canasta.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Mijanou Bardot.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'Ephraïm Zimbalist junior.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t« Petit Papa c'est aujourd'hui ta fête\\n\\tMaman m'a dit que tu n'étais pas là.\\n\\tJ'avais des fleurs pour couronner ta tête... »\\n\\t(j'ai oublié la suite).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t« On n'est pas des imbéciles,\\n\\tOn a même de l'instruction,\\n\\tAu lycée papa\\n\\tAu lycée papa\\n\\tAu lycée Papillon. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'Émile Idée et de Guy Lapébie.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du houla-hoop.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du yo-yo.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Sissi_ avec Romy Schneider.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Farrebique_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _I like Ike_ et de _US GO HOME_ et de Barry Goldwater (AuH₂O).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du café Jean Robic, avenue du Maine.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Jean Yanne à R.T.L. et de ses inoubliables calembours : Tire ailleurs, c'est mes gallets!, Ce sont d'avides et bêtes abbés! Neuf acteurs sonnent toujours deux fois! L'abbé irrité sort de la douche des enfants! etc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de plusieurs athéètes : Houvion, Thiam Papa Gallo, Sainte-Rose, Jazy, Piquemal, Pujazon, et aussi de Valeri Brummel (qui eut un terrible accident de moto) et de Ter Ovanessian.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Robert Mitchum quand il dit « Children... » dans le film de Charles Laughton, _La nuit du chasseur_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des trois manières dont les skis s'attachaient, dans le creux du talon, avec un câble tendu très en avant du pied, et avec des lanières.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de :\\n\\t- Quelle est la couleur des petits pois?\\n\\t- Verts,\\n\\t- Non, les petits pois sont rouges.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Branquignol_, et de _Dugudu_, et de _Ah les belles Bacchantes_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Franck Fernandel.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des petits pétards enveloppés dans du papier que l'on appelait des bombres algériennes.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "d'Emile Allais, et de James Coutett, et d'Henri Oreiller.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Gloria Lasso, et de Tilda Thamar et de Maria Felix.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du _Point du Jour_, et de la _Garantie Foncière_, etc. etc. etc.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du duel entre le Marquis de Cuevas et Serge Lifar.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des actualités au cinéma.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des librairies d'occasion qu'il y avait sous les arcades de l'Odéon.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « Balzac, Hedder, Scala, Vivienne. »",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des dames qui remmaillaient des bas avec leur petite machine dans les kiosques à la porte des grands magasins.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Yma Sumac (le rossignol des Andes).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du Docteur Schweitzer.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de René-Louis Lafforgue et de _Julie la Rousse_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "que les autobus étaient designés par des lettres et pas par des chiffres (d'où le celèbre « S » des _Exercices de Style_, devenu 84).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de Brigitte Bardot quand elle chantait _Sidonie a plus d'un amant_, _Moi je ne crains personne en Harley-Davidson_ ou _La fin de l'été_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _L'oeuf et moi_, de Betty McDonald.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des voitures américaines : les « De Soto », les « Studebaker », les « Pontiac », les « Oldsmobile », les « Chevrolet », les « Packard », et les V8 que l'on appelait ainsi parce qu'elles avaient « huit cylindres en v ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des _Carnets du Major Thomson_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _How to be an alien_ et de _How to scrape skies_, de Georges Mikes.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de _Caroline chérie_ (le livre et le film).",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de « la surface corrigée ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "des « personnes déplacées ».",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "de la ligne de métro Nord-Sud qui n'avait pas exactement les mêmes wagons que les autres.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du \\n──┐┌┐\\n ┌┼┼┘\\n └┼┼┐\\n  └┘│\\ndans le métro.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "du Capitaine Courageux sur le _Flying Enterprise_.",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+},
+{
+"pk": null,
+	"model": "mnemosyne.memory",
+	"fields": {
+		"lang": "fr",
+		"text": "",
+		"added": null,
+		"author": 2,
+		"edited": null
+	}
+}
+]

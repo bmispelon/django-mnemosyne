@@ -1,0 +1,38 @@
+{% extends 'mnemosyne/base.html' %}
+
+{% load i18n %}
+
+{% block title %}{% if object %}
+{% blocktrans with object.id as id %}Edit memory #{{ id }}{% endblocktrans %}
+{% else %}
+Create a memory
+{% endif %}{% endblock %}
+
+{% block content %}
+<h1>{% if object %}
+{% blocktrans with object.id as id %}Edit memory #{{ id }}{% endblocktrans %}
+{% else %}
+{% trans 'Create a memory' %}
+{% endif %}</h1>
+<form action="." method="post" id="memory-form">
+    <div class="fieldWrapper">
+        {{ form.text.errors }}
+        <label for="id_text">{% trans "I remember" %}...</label><br />
+        {{ form.text }}
+    </div>
+    <div class="fieldWrapper">
+        {{ form.lang.errors }}
+        {{ form.lang.label_tag }} : {{ form.lang }}
+    </div>
+    <div class="fieldWrapper">
+        {{ form.tags.errors }}
+        {{ form.tags.label_tag }} : {{ form.tags }}
+    </div>
+    <div>
+        <input type="submit" value="{% if object %}{% trans "Edit" %}{% else %}{% trans "Create" %}{% endif %}" />
+        <a href="{{ next }}">{% trans "Cancel" %}</a>
+        <input type="hidden" name="next" value="{{ next }}" />
+        {% csrf_token %}
+    </div>
+</form>
+{% endblock %}

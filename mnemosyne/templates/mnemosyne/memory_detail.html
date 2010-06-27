@@ -1,0 +1,29 @@
+{% extends 'mnemosyne/base.html' %}
+
+{% load i18n tagging_tags %}
+
+{% block title %}{% blocktrans with object.id as id %}Memory #{{ id }}{% endblocktrans %}{% endblock %}
+
+{% block content %}
+    <h1>{% blocktrans with object.id as id %}Memory #{{ id }}{% endblocktrans %}</h1>
+    <div id="memory-details">
+        <div class="text">
+        {% if object.text_html %}
+            {{ object.text_html|safe }}
+        {% else %}
+            <p><span class="iremember">{{ object.i_remember }}</span> {{ object.text|linebreaksbr }}</p>
+        {% endif %}</div>
+    <ul id="metadata">
+        <li class="author">
+            <span class="label">{% trans 'Author' %} :</span>
+            <a href="{% url mnemosyne-user-list object.author.username %}">{{ object.author.username }}</a></li>
+        <li class="lang">
+            <span class="label">{% trans 'Language' %} :</span>
+            <a href="{% url mnemosyne-memory-list-lang object.lang %}">
+            {% trans object.get_lang_display %}
+        </a></li>
+        <li><span class="label">{% trans 'Posted on' %} :</span> {{ object.added }}</li>
+        {% tags_for_object object as tags %}
+        {% if tags %}<li>Tags: {{ tags|join:", " }}</li>{% endif %}
+    </ul>
+{% endblock %}
